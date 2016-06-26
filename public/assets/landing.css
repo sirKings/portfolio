@@ -1,0 +1,101 @@
+   .main{
+	text-align: center;
+	padding-top: 240px;
+	padding-bottom: 240px;
+	background-image: url(/assets/img/nice-blue.jpg);
+}
+.main2{
+	padding-bottom: 60px;
+	padding-top: 40px;
+	background-image: url(/assets/img/super-effect.jpg);
+}
+.main3{
+	padding-top: 80px;
+	background-image: url(/assets/img/real-sky.jpg);
+}
+
+body{
+	background-color: #000;
+	color: black;
+}
+.listing{
+	text-transform: capitalize;
+}
+.motto{
+	font-weight: bold;
+	padding-bottom: 30px;
+	font-size: 2em;
+	font-style: italic;
+}
+.about{
+	font-size: 2em;
+	font-weight: bold;
+	text-align: center;
+	color: rgba(200, 200, 200, 0.8);
+	text-shadow: 2px 1px 2px #000;
+}
+
+.img-circle{
+	padding-top: 20px;
+}
+
+hr {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+h1{
+	text-transform: capitalize;
+	font-size: 5em;
+	margin-top: -50px;
+    text-shadow: 2px 1px 2px #000;
+    color: rgba(255, 255, 255, 0.7);
+
+}
+
+.navbar-inverse .navbar-brand {
+    color: orange;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.btn {
+    display: inline-block;
+    color: #000;
+    border: 2px outset rgba(0, 0, 0, 0.9);
+    background: #C0C0C0;
+    text-shadow: 1px 1px 1px rgba(0,0,0, 20);
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+    letter-spacing: 2px;
+    transition: 0.2s;
+}
+ h2 {
+    font-size: 3em;
+    text-align: center;
+    text-shadow: 2px 1px 2px #000;
+    color: rgba(255, 255, 255, 0.7);
+}
+span{
+	text-shadow: 2px 1px 2px #000;
+    color: rgba(255, 255, 255, 0.7);
+}
+img {
+    width: 100%;
+    float: center;
+    margin: 1.66%;
+}
+
+img-responsive {
+    width: 30%;
+}
+
+a p {
+    color: rgba(03, 03, 03, 0.8);
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-left: 10px;
+    text-shadow: 1px 1px 1px #000;
+}

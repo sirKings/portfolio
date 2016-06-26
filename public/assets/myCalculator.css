@@ -1,0 +1,81 @@
+body{
+	background-color: rgba(198, 227, 161, 0.5);
+}
+
+.container{
+	width: 30%;
+	margin: 100px auto;
+	border: 2px solid rgba(50, 50, 50, 0.8);
+	padding: 35px 20px 10px 10px;
+	background-color: rgb(77, 97, 130);
+	height: 340px;
+	border-radius: 5px;
+	box-shadow: 5px 2px 1px #1f1f1f;
+}
+
+.buttons{
+	width: 20%;
+	float: left;
+	margin: 20px 5px 0px 5px;
+	height: 40px;
+}
+
+input{
+	height: 40px;
+	width: 100%
+}
+
+#c{
+	color: red;
+}
+
+button:hover{
+	background-color: rgb(77, 97, 130);
+	color: white;
+	outline-color: black;
+}
+h1{
+	font-size: 1em
+}
+
+span{
+	color: red;
+}
+
+
+.cloth{
+  padding: 20px 20px;
+  width: 80%;
+  margin-top: 20px;
+  border-radius: 5%;
+}
+
+.cloth img {
+  width: 60%;
+  margin: 0px auto;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    background-color: #33A23D;
+}
+
+.container-fluid .navbar-header {
+  background-color: #33A23D;
+}
+
+.navbar-default .navbar-brand {
+    color: #eee;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #eee;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #fff;
+}
+
